@@ -83,7 +83,7 @@ OOP, MVC, Microservices Architecture, RESTful Services
 
 📫 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/ArvindYadav
+- LinkedIn: www.linkedin.com/in/arvind-yadav-bb1309381
 - GitHub: https://github.com/ArvindYadav1225
 
 ---
